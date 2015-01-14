@@ -1,0 +1,47 @@
+Game Chosen: Risk (Simplified)
+
+Equipment needed:
+For this version of risk you will need a game board of 25 squares, 5 on each side.
+The board will be divided into continents, with the upper left 3x3 section representing
+one, the upper right and bottom left 3x2 sections representing others, and the bottom
+right 2x2 representing the third.
+Pieces will be needed to represent the number of units on each square.
+6 sided die are required for deciding the results of engagements.
+
+Starting:
+To start, territories will be randomly distributed amount the players, except for the
+centre square. Then each player will place one of their own units on each of their
+squares, with two neutral units being place on the centre square. After that each player
+will place 10 of their units on whichever squares they choose.
+
+Taking Turns:
+1. Placing new units
+At the start of each player's turn they will receive units to place. They will receive 1
+unit for each 3 territories they posses, along with 3 units for controlling the large
+continent, 2 for controlling each medium continent, and 1 for controlling the small
+continent.
+2. Movement
+After they have placed their units the player may move their units. Each unit can move
+no more than one territory horizontally or vertically each turn, no diagonal movement
+is allowed. No wrapping around the board to move.
+3. Attacking
+After units have been moved the player may attack other territories. Any territory he
+possesses with at least 2 units may attack any territory adjacent to it horizontally 
+or vertically, no wrapping around the board to attack. When a territory attacks it
+chooses up to 3 units to attack, but must leave at least one in the territory. They
+attack up to 2 defending units from the territory being attacked.
+For each unit one die is rolled, and then the die are compared. The highest die are
+taken from each side, with the number of die taken equal to the number of units
+on the side with the smallest number of units. The die are then ordered and matched
+with their corresponding die from the opposite side. If the attackers die value in
+a comparison is higher, then the defender removes a unit from the board. Otherwise,
+including in case of a tie, the attacker removes a unit.
+The player may attack as many times in a turn as he is able to.
+If the player's attack removes all enemy defenders from the attacked territory
+then it becomes his, and he may move as many units as he wishes to the new territory
+from the territory he attacked it with, but must leave at least one behind in the old
+territory.
+After the player is done attacking his turn ends.
+
+Winning Conditions:
+When one player controls all territories on the board he is the winner.
